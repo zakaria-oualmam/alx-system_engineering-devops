@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Shell I/O Redirections, Filters" > README.md
+echo "Hello, World"
+EOF
